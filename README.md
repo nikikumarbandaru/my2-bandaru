@@ -17,4 +17,5 @@ Pondicherry is not just a tourism spot but also a food city with various types o
 * Sea Food
 * Biriyani and many other dishes.
 
+[Link to MyStats.md](MyStats.md)
 

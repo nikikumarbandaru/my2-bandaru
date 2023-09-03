@@ -3,4 +3,4 @@ I am Nikith Kumar Bandaru. I am from Southern part of India from a place called 
 
 I am interested in the Data Science technology. From the career perspective I would like to see myself as a Data Science Engineer after completetion of my Graduate program. I have done many courses related to my goal.
 
-![My Image](IMG-20210618-WA0009.jpg)
+![My Image](MyImage.jpg)
