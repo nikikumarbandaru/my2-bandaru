@@ -31,4 +31,12 @@ In this section I would like to recommend few sports that are that are **benific
 | Volley Ball | This sport increases the strength of the forearm and also it is a fun game to play while on vacation | 3.0 |
 | Badminton | This sport increases the handpower and also increases the calf strength of players' legs | 5.0 |
 
+---
+
+## Quotes by famous scientists
+>"The more I learn, the more I realize how much I don't know." - *Isaac Newton*
+
+>"The only source of knowledge is experience." - *Albert Einstein*
+
+>"The only true wisdom is in knowing you know nothing." - *Socrates*
 
