@@ -19,3 +19,16 @@ Pondicherry is not just a tourism spot but also a food city with various types o
 
 [Link to MyStats.md](MyStats.md)
 
+---
+
+## Recommended Sports
+In this section I would like to recommend few sports that are that are **benificial** for maintaining healthy **lifestyle** and are also worth trying atleast once in a life time.
+
+| Name of the Sport | Reasons for recommendation | Hours in Avg per Week to be Spent |
+| :--- | :---: | ---: |
+| Basket Ball | This sport increases the muscle flexibility and also increases stamina of the players | 5.0 | 
+| Soccer | This sport requires high amount of stamina and is also an adrenaline rushing game which requires great team coordination and is also fun to play | 3.0 |
+| Volley Ball | This sport increases the strength of the forearm and also it is a fun game to play while on vacation | 3.0 |
+| Badminton | This sport increases the handpower and also increases the calf strength of players' legs | 5.0 |
+
+
